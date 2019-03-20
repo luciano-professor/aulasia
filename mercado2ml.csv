@@ -1,0 +1,11 @@
+leite,cafe,cerveja,pao,manteiga,arroz,feijao
+False,True,False,True,True,False,False
+True,False,True,True,True,False,False
+False,True,False,True,True,False,False
+True,True,False,True,True,False,False
+False,False,True,False,False,False,False
+False,False,False,False,True,False,False
+False,False,False,True,False,False,False
+False,False,False,False,False,False,True
+False,False,False,False,False,True,True
+False,False,False,False,False,True,False
